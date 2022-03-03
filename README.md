@@ -1,17 +1,23 @@
-### Olá, meu nome é Diego Venturin. 
+### Olá, meu nome é Diego Venturin. :sunglasses: 
 
 ### Seja bem vindo ao meu perfil GitHub!
 
-<p>Atuo na área de tecnologia há mais de 14 anos e atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>.
+<p>Atuo na área de tecnologia há mais de 14 anos e atualmente estou estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/> :rocket: :rocket: :rocket:.
 </p> 
+ 
+<hr>
+
+### :seedling: Status:
  
 <div style="display: inline_block">
   <a href="https://github.com/venturinn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=venturinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venturinn&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+<hr>
 
-### Conhecimentos:
+### :mortar_board: Conhecimentos:
 
 <div align="left">
       <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"                  alt="linux" width="40" height="40"/></a>
@@ -25,8 +31,9 @@
       <a href="https://testing-library.com/" target="_blank"><img src="https://testing-library.com/img/logo-large.png" alt="testing-library" width="40" height="40"/></a>
  </div>
 
+ <hr>
 
-### Contato:
+### :link: Contato:
 
 <div>
 <a href="https://www.linkedin.com/in/diego-venturin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
