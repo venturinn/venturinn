@@ -1,7 +1,7 @@
 <h1 align="center"> Diego Venturin </h1>
 
 <p align="center">
-     Olá, bem vindo ao meu perfil! Sou um profissional da área de tecnologia há mais de 15 anos e atualmente estou estudando desenvolvimento web na <a        href="https://www.betrybe.com/" target="_blank">Trybe<a/> :rocket: :rocket: :rocket:.
+     Olá, seja bem-vindo ao meu perfil! Sou um profissional da área de tecnologia há mais de 15 anos e acredito que a sua evolução é o melhor recurso        para melhorar a nossa experiência cotidiana. Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>      :rocket: :rocket: :rocket:.
 </p> 
 
 <hr>
