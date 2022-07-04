@@ -38,6 +38,7 @@
       <a href="https://www.mysql.com/" target="_blank"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40"             height="40"/></a>
        <a href="https://nodejs.org/en/" target="_blank"><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="Node.js" width="40" height="40"/></a>
         <a href="https://sequelize.org/" target="_blank"><img src="https://sequelize.org/img/logo.svg" alt="Sequelize" width="40" height="40"/></a>
+        <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
  </div>
 
  <hr>
